@@ -1,0 +1,192 @@
+Squadra Casa,Squadra Trasferta,Gol Casa,Gol Trasferta,Somma Gol
+Fortuna Sittard,Go Ahead Eagles,2,2,4
+NEC Nijmegen,Excelsior,5,0,5
+Feyenoord,NAC Breda,2,0,2
+SC Heerenveen,FC Volendam,1,1,2
+PSV Eindhoven,Sparta Rotterdam,6,1,7
+PEC Zwolle,FC Twente,1,0,1
+AFC Ajax,SC Telstar,2,0,2
+AZ Alkmaar,FC Groningen,4,1,5
+FC Utrecht,Heracles Almelo,4,0,4
+SC Heerenveen,NAC Breda,3,3,6
+Fortuna Sittard,FC Groningen,1,2,3
+Sparta Rotterdam,SC Telstar,1,0,1
+FC Volendam,Heracles Almelo,3,0,3
+PEC Zwolle,NEC Nijmegen,2,2,4
+FC Twente,AFC Ajax,2,3,5
+Feyenoord,PSV Eindhoven,2,3,5
+AZ Alkmaar,FC Utrecht,4,1,5
+Go Ahead Eagles,Excelsior,2,0,2
+PSV Eindhoven,Fortuna Sittard,5,2,7
+AFC Ajax,SC Heerenveen,1,1,2
+NAC Breda,Go Ahead Eagles,1,0,1
+Feyenoord,FC Volendam,3,1,4
+SC Telstar,Excelsior,2,2,4
+Heracles Almelo,PEC Zwolle,8,2,10
+FC Groningen,FC Twente,1,1,2
+Sparta Rotterdam,AZ Alkmaar,0,1,1
+FC Utrecht,NEC Nijmegen,1,0,1
+FC Twente,SC Telstar,0,0,0
+Excelsior,Heracles Almelo,1,2,3
+FC Volendam,NAC Breda,2,1,3
+Fortuna Sittard,SC Heerenveen,2,0,2
+PEC Zwolle,Sparta Rotterdam,1,0,1
+FC Utrecht,AFC Ajax,2,1,3
+NEC Nijmegen,FC Groningen,2,0,2
+AZ Alkmaar,PSV Eindhoven,1,5,6
+Go Ahead Eagles,Feyenoord,2,1,3
+NAC Breda,PSV Eindhoven,0,1,1
+AFC Ajax,Excelsior,1,2,3
+FC Volendam,FC Twente,1,1,2
+Heracles Almelo,Go Ahead Eagles,4,2,6
+Sparta Rotterdam,Fortuna Sittard,1,1,2
+SC Heerenveen,AZ Alkmaar,3,1,4
+Feyenoord,NEC Nijmegen,2,4,6
+SC Telstar,FC Utrecht,1,1,2
+FC Groningen,PEC Zwolle,2,2,4
+PEC Zwolle,SC Heerenveen,2,1,3
+Excelsior,NAC Breda,1,0,1
+Fortuna Sittard,Heracles Almelo,1,1,2
+NEC Nijmegen,Sparta Rotterdam,3,1,4
+PSV Eindhoven,FC Volendam,3,0,3
+Go Ahead Eagles,FC Utrecht,2,2,4
+SC Telstar,Feyenoord,1,2,3
+FC Twente,AZ Alkmaar,1,0,1
+AFC Ajax,FC Groningen,2,0,2
+Excelsior,FC Groningen,0,2,2
+SC Heerenveen,PSV Eindhoven,0,2,2
+Fortuna Sittard,AFC Ajax,1,3,4
+Heracles Almelo,SC Telstar,1,1,2
+Feyenoord,PEC Zwolle,6,1,7
+FC Utrecht,FC Twente,1,1,2
+AZ Alkmaar,Go Ahead Eagles,2,2,4
+FC Volendam,NEC Nijmegen,2,3,5
+Sparta Rotterdam,NAC Breda,1,0,1
+SC Telstar,NEC Nijmegen,2,2,22
+FC Groningen,FC Volendam,3,0,30
+PSV Eindhoven,Heracles Almelo,4,3,43
+PEC Zwolle,Fortuna Sittard,1,0,10
+Sparta Rotterdam,SC Heerenveen,0,3,03
+AFC Ajax,Feyenoord,2,0,20
+FC Twente,Go Ahead Eagles,2,0,20
+AZ Alkmaar,Excelsior,-,-,--
+NAC Breda,FC Utrecht,1,1,11
+AZ Alkmaar,Excelsior,-,-,--
+Heracles Almelo,SC Heerenveen,0,3,3
+Excelsior,PEC Zwolle,2,1,3
+NEC Nijmegen,AFC Ajax,2,2,4
+NAC Breda,SC Telstar,0,1,1
+FC Utrecht,PSV Eindhoven,1,2,3
+Feyenoord,FC Twente,1,1,2
+Go Ahead Eagles,FC Groningen,1,1,2
+FC Volendam,Sparta Rotterdam,0,1,1
+Fortuna Sittard,AZ Alkmaar,4,3,7
+AZ Alkmaar,FC Volendam,1,0,10
+FC Twente,PEC Zwolle,1,1,11
+PSV Eindhoven,Excelsior,5,1,51
+FC Groningen,NAC Breda,0,0,00
+SC Heerenveen,Feyenoord,2,2,22
+Go Ahead Eagles,Fortuna Sittard,2,2,22
+SC Telstar,AFC Ajax,2,3,23
+Sparta Rotterdam,Heracles Almelo,2,0,20
+NEC Nijmegen,FC Utrecht,-,-,--
+AFC Ajax,Go Ahead Eagles,2,2,4
+PEC Zwolle,AZ Alkmaar,3,1,4
+Excelsior,SC Telstar,2,2,4
+Fortuna Sittard,PSV Eindhoven,1,2,3
+NAC Breda,NEC Nijmegen,3,4,7
+SC Heerenveen,FC Groningen,0,2,2
+FC Volendam,FC Utrecht,2,1,3
+Heracles Almelo,FC Twente,0,2,2
+Feyenoord,Sparta Rotterdam,3,4,7
+SC Telstar,PEC Zwolle,0,2,2
+Excelsior,Feyenoord,1,2,3
+Heracles Almelo,NEC Nijmegen,1,4,5
+FC Groningen,SC Heerenveen,2,1,3
+Go Ahead Eagles,AFC Ajax,2,2,4
+FC Twente,PSV Eindhoven,0,2,2
+Sparta Rotterdam,FC Utrecht,2,1,3
+FC Volendam,AZ Alkmaar,2,2,4
+NAC Breda,Fortuna Sittard,2,1,3
+AFC Ajax,FC Volendam,2,0,20
+NEC Nijmegen,PEC Zwolle,2,1,21
+PSV Eindhoven,NAC Breda,2,2,22
+FC Twente,Excelsior,0,0,00
+SC Telstar,AZ Alkmaar,0,1,01
+FC Groningen,Fortuna Sittard,1,2,12
+FC Utrecht,Sparta Rotterdam,0,1,01
+Feyenoord,Heracles Almelo,4,2,42
+Go Ahead Eagles,SC Heerenveen,-,-,--
+NAC Breda,FC Twente,2,2,4
+AZ Alkmaar,NEC Nijmegen,1,3,4
+PEC Zwolle,SC Telstar,4,1,5
+Sparta Rotterdam,FC Groningen,2,0,2
+Excelsior,AFC Ajax,2,2,4
+Heracles Almelo,Fortuna Sittard,2,1,3
+PSV Eindhoven,Feyenoord,3,0,3
+SC Heerenveen,FC Utrecht,1,1,2
+FC Volendam,Go Ahead Eagles,1,1,2
+Go Ahead Eagles,Sparta Rotterdam,0,3,03
+PSV Eindhoven,FC Groningen,4,2,42
+SC Telstar,FC Volendam,2,2,22
+AZ Alkmaar,PEC Zwolle,-,-,--
+SC Heerenveen,FC Twente,1,2,12
+FC Utrecht,Excelsior,4,1,41
+NEC Nijmegen,NAC Breda,3,0,30
+AFC Ajax,Heracles Almelo,2,0,20
+Feyenoord,Fortuna Sittard,2,0,20
+AZ Alkmaar,PEC Zwolle,2,2,22
+FC Groningen,Heracles Almelo,4,0,4
+FC Volendam,AFC Ajax,1,1,2
+SC Heerenveen,Go Ahead Eagles,2,2,4
+PSV Eindhoven,SC Telstar,0,2,2
+Excelsior,FC Twente,1,0,1
+Fortuna Sittard,NEC Nijmegen,3,2,5
+PEC Zwolle,FC Utrecht,0,2,2
+Sparta Rotterdam,Feyenoord,0,4,4
+NAC Breda,AZ Alkmaar,0,1,1
+AFC Ajax,PEC Zwolle,3,1,4
+NEC Nijmegen,PSV Eindhoven,3,5,8
+Go Ahead Eagles,FC Volendam,3,0,3
+FC Twente,NAC Breda,2,2,4
+Feyenoord,SC Heerenveen,1,0,1
+Excelsior,Sparta Rotterdam,0,1,1
+FC Utrecht,FC Groningen,0,1,1
+Heracles Almelo,AZ Alkmaar,1,2,3
+SC Telstar,Fortuna Sittard,1,3,4
+Sparta Rotterdam,FC Twente,1,5,6
+FC Volendam,Excelsior,1,2,3
+FC Groningen,SC Telstar,2,0,2
+Fortuna Sittard,FC Utrecht,1,0,1
+NAC Breda,Heracles Almelo,2,1,3
+PEC Zwolle,Go Ahead Eagles,0,2,2
+PSV Eindhoven,AFC Ajax,2,2,4
+SC Heerenveen,NEC Nijmegen,3,2,5
+AZ Alkmaar,Feyenoord,3,3,6
+FC Twente,Fortuna Sittard,3,2,5
+AFC Ajax,NAC Breda,2,1,3
+FC Volendam,PEC Zwolle,2,1,3
+Excelsior,PSV Eindhoven,1,2,3
+Heracles Almelo,Sparta Rotterdam,3,0,3
+NEC Nijmegen,AZ Alkmaar,2,1,3
+FC Groningen,Feyenoord,0,1,1
+FC Utrecht,SC Heerenveen,2,2,4
+SC Telstar,Go Ahead Eagles,4,2,6
+NAC Breda,FC Groningen,1,2,3
+Sparta Rotterdam,AFC Ajax,3,3,6
+Fortuna Sittard,FC Volendam,1,0,1
+PEC Zwolle,PSV Eindhoven,0,4,4
+SC Heerenveen,Excelsior,2,1,3
+FC Twente,Heracles Almelo,2,1,3
+Feyenoord,FC Utrecht,3,2,5
+AZ Alkmaar,SC Telstar,2,1,3
+Go Ahead Eagles,NEC Nijmegen,1,1,2
+NEC Nijmegen,FC Twente,3,3,6
+FC Utrecht,FC Volendam,3,1,4
+PSV Eindhoven,Go Ahead Eagles,2,1,3
+AFC Ajax,AZ Alkmaar,0,2,2
+NAC Breda,PEC Zwolle,2,2,4
+SC Telstar,SC Heerenveen,2,3,5
+Excelsior,Fortuna Sittard,1,0,1
+FC Groningen,Sparta Rotterdam,0,2,2
+Heracles Almelo,Feyenoord,0,7,7

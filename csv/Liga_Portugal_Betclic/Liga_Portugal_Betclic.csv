@@ -1,0 +1,182 @@
+Squadra Casa,Squadra Trasferta,Gol Casa,Gol Trasferta,Somma Gol
+Casa Pia,Sporting CP,0,2,2
+CD Nacional,Gil Vicente,0,2,2
+FC Arouca,AVS - Futebol SAD,3,1,4
+Famalicão,Santa Clara,3,0,3
+Moreirense,FC Alverca,2,1,3
+Sporting Braga,Tondela,3,0,3
+Estoril Praia,CF Estrela Amadora,1,1,2
+FC Porto,Vitória SC,3,0,3
+Benfica,Rio Ave,1,1,2
+Sporting CP,FC Alverca,2,0,2
+CD Nacional,Famalicão,0,1,1
+Casa Pia,CF Estrela Amadora,3,5,8
+Rio Ave,Estoril Praia,0,4,4
+Vitória SC,Benfica,0,3,3
+AVS - Futebol SAD,Tondela,2,2,4
+FC Arouca,Moreirense,0,2,2
+FC Porto,Sporting Braga,2,1,3
+Gil Vicente,Santa Clara,1,0,1
+Estoril Praia,FC Arouca,4,3,7
+FC Alverca,Rio Ave,1,1,2
+Tondela,Vitória SC,0,1,1
+Santa Clara,Sporting CP,1,2,3
+AVS - Futebol SAD,Gil Vicente,1,1,2
+CF Estrela Amadora,CD Nacional,1,1,2
+Famalicão,FC Porto,0,1,1
+Benfica,Casa Pia,2,2,4
+Sporting Braga,Moreirense,2,1,3
+Vitória SC,AVS - Futebol SAD,4,0,4
+Casa Pia,FC Alverca,0,2,2
+Moreirense,Famalicão,2,2,4
+CD Nacional,Benfica,1,2,3
+Gil Vicente,Tondela,0,1,1
+Rio Ave,Santa Clara,1,1,2
+Sporting CP,CF Estrela Amadora,4,0,4
+FC Porto,Estoril Praia,1,0,1
+FC Arouca,Sporting Braga,0,4,4
+Benfica,Sporting CP,1,1,2
+Santa Clara,Casa Pia,1,0,1
+AVS - Futebol SAD,Rio Ave,1,2,3
+Famalicão,Sporting Braga,1,2,3
+Estoril Praia,Moreirense,3,3,6
+CF Estrela Amadora,FC Arouca,3,1,4
+FC Alverca,CD Nacional,1,0,1
+Tondela,FC Porto,0,2,2
+Vitória SC,Gil Vicente,0,0,0
+Casa Pia,Gil Vicente,1,1,11
+CD Nacional,Tondela,-,-,--
+Rio Ave,Vitória SC,0,1,01
+Sporting CP,AVS - Futebol SAD,6,0,60
+Famalicão,Estoril Praia,4,0,40
+Moreirense,Benfica,0,4,04
+FC Arouca,FC Alverca,1,0,10
+CD Nacional,Tondela,3,1,31
+Sporting Braga,Santa Clara,1,0,10
+FC Porto,CF Estrela Amadora,3,1,31
+Estoril Praia,Sporting Braga,1,0,1
+Gil Vicente,Rio Ave,2,2,4
+CF Estrela Amadora,Moreirense,0,0,0
+AVS - Futebol SAD,CD Nacional,2,2,4
+Tondela,Casa Pia,1,2,3
+Santa Clara,FC Arouca,0,0,0
+FC Alverca,FC Porto,0,3,3
+Benfica,Famalicão,1,0,1
+Vitória SC,Sporting CP,1,4,5
+Famalicão,CF Estrela Amadora,2,3,5
+Estoril Praia,FC Alverca,4,1,5
+Casa Pia,Vitória SC,0,0,0
+FC Arouca,Gil Vicente,2,2,4
+Sporting Braga,Benfica,2,2,4
+Sporting CP,Rio Ave,4,0,4
+FC Porto,AVS - Futebol SAD,2,0,2
+CD Nacional,Santa Clara,3,3,6
+Moreirense,Tondela,1,0,1
+Gil Vicente,Sporting CP,1,1,2
+Vitória SC,CD Nacional,2,1,3
+Tondela,FC Arouca,3,1,4
+Benfica,Estoril Praia,3,1,4
+CF Estrela Amadora,Sporting Braga,3,3,6
+AVS - Futebol SAD,Moreirense,0,2,2
+Rio Ave,Casa Pia,3,1,4
+Santa Clara,FC Porto,0,1,1
+FC Alverca,Famalicão,1,0,1
+Sporting CP,Casa Pia,3,0,3
+Gil Vicente,CD Nacional,2,1,3
+AVS - Futebol SAD,FC Arouca,0,1,1
+FC Alverca,Moreirense,2,1,3
+Rio Ave,Benfica,0,2,2
+Santa Clara,Famalicão,0,1,1
+Tondela,Sporting Braga,0,1,1
+Vitória SC,FC Porto,0,1,1
+CF Estrela Amadora,Estoril Praia,0,5,5
+Casa Pia,AVS - Futebol SAD,3,3,6
+Moreirense,Santa Clara,1,0,1
+FC Arouca,Sporting CP,1,2,3
+Estoril Praia,Vitória SC,4,2,6
+CD Nacional,Rio Ave,4,0,4
+Benfica,CF Estrela Amadora,4,0,4
+Famalicão,Tondela,3,0,3
+Sporting Braga,FC Alverca,5,0,5
+FC Porto,Gil Vicente,3,0,3
+AVS - Futebol SAD,Casa Pia,0,2,2
+Tondela,Famalicão,0,1,1
+Vitória SC,Estoril Praia,3,2,5
+CF Estrela Amadora,Benfica,0,1,1
+Rio Ave,CD Nacional,1,1,2
+FC Alverca,Sporting Braga,0,3,3
+Santa Clara,Moreirense,0,1,1
+Sporting CP,FC Arouca,6,0,6
+Gil Vicente,FC Porto,0,2,2
+Vitória SC,Moreirense,1,0,1
+Santa Clara,Estoril Praia,2,4,6
+Rio Ave,FC Arouca,0,3,3
+FC Alverca,CF Estrela Amadora,1,1,2
+Gil Vicente,Famalicão,5,0,5
+Sporting CP,CD Nacional,2,1,3
+Tondela,Benfica,0,0,0
+AVS - Futebol SAD,Sporting Braga,0,4,4
+Casa Pia,FC Porto,2,1,3
+Moreirense,Vitória SC,2,0,2
+CD Nacional,Sporting CP,1,4,5
+Benfica,Tondela,3,0,3
+FC Arouca,Rio Ave,3,3,6
+Famalicão,Gil Vicente,0,0,0
+FC Porto,Casa Pia,4,0,4
+Sporting Braga,AVS - Futebol SAD,2,2,4
+CF Estrela Amadora,FC Alverca,2,2,4
+Estoril Praia,Santa Clara,0,1,1
+Gil Vicente,Moreirense,2,0,2
+Casa Pia,CD Nacional,0,2,2
+AVS - Futebol SAD,Famalicão,0,1,1
+Vitória SC,FC Arouca,1,1,2
+Sporting CP,FC Porto,1,2,3
+Tondela,Estoril Praia,2,2,4
+FC Alverca,Benfica,1,2,3
+Rio Ave,Sporting Braga,2,2,4
+Santa Clara,CF Estrela Amadora,0,0,0
+Benfica,Santa Clara,1,1,2
+FC Alverca,Tondela,1,0,1
+Estoril Praia,AVS - Futebol SAD,3,1,4
+Moreirense,Rio Ave,3,1,4
+FC Porto,CD Nacional,1,0,1
+Famalicão,Sporting CP,1,2,3
+CF Estrela Amadora,Vitória SC,0,2,2
+FC Arouca,Casa Pia,0,2,2
+Sporting Braga,Gil Vicente,0,1,1
+Rio Ave,FC Porto,0,3,3
+CD Nacional,FC Arouca,1,2,3
+Santa Clara,FC Alverca,2,1,3
+AVS - Futebol SAD,Benfica,0,3,3
+Vitória SC,Sporting Braga,1,1,2
+Tondela,CF Estrela Amadora,0,0,0
+Gil Vicente,Estoril Praia,2,0,2
+Casa Pia,Famalicão,1,1,2
+Sporting CP,Moreirense,3,0,3
+Benfica,Gil Vicente,2,1,3
+Moreirense,Casa Pia,2,1,3
+Santa Clara,Tondela,1,2,3
+CF Estrela Amadora,AVS - Futebol SAD,3,0,3
+Estoril Praia,Sporting CP,0,1,1
+FC Alverca,Vitória SC,2,0,2
+Sporting Braga,CD Nacional,0,1,1
+Famalicão,Rio Ave,0,0,0
+FC Arouca,FC Porto,0,4,4
+Casa Pia,Estoril Praia,2,2,4
+CD Nacional,Moreirense,3,2,5
+Gil Vicente,CF Estrela Amadora,2,0,2
+AVS - Futebol SAD,FC Alverca,1,3,4
+Vitória SC,Santa Clara,2,1,3
+FC Arouca,Famalicão,1,1,2
+Rio Ave,Tondela,3,0,3
+Sporting CP,Sporting Braga,1,1,2
+FC Porto,Benfica,0,0,0
+FC Alverca,Gil Vicente,0,4,4
+Santa Clara,AVS - Futebol SAD,2,0,2
+Benfica,FC Arouca,5,0,5
+CF Estrela Amadora,Rio Ave,1,2,3
+Estoril Praia,CD Nacional,1,1,2
+Famalicão,Vitória SC,2,0,2
+Tondela,Sporting CP,0,3,3
+Sporting Braga,Casa Pia,4,0,4
+Moreirense,FC Porto,1,2,3
